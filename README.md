@@ -1,4 +1,4 @@
-📊Retail-sales-Analytics-
+📊Retail-sales-Analytics
 
 Retail Sales Analytics Using Excel, SQL & Power BI
 This project presents a complete Retail Sales Analytics solution using Excel for data cleaning, SQL for querying, and Power BI for visualization. The goal is to enable effective business decision-making in a competitive retail environment by analyzing sales, customer behavior, inventory, and store performance.
